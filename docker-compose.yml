@@ -20,5 +20,5 @@ services:
             context: ./app
             # dockerfile: Dockerfile.arm
         environment:
-            - WYZE_EMAIL=
-            - WYZE_PASSWORD=
+            - WYZE_EMAIL=rlathomas52@gmail.com
+            - WYZE_PASSWORD=Wyze18638
